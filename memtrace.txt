@@ -1,0 +1,26 @@
+GB 1 D:\code\mafiawork\game\gfx\gfx.c 127
+GVA 1 D:\code\mafiawork\game\gfx\gfx.c 131
+GT 1 D:\code\mafiawork\game\gfx\gfx.c 140
+GT 2 D:\code\mafiawork\game\gfx\gfx.c 263
+GT 3 D:\code\mafiawork\game\gfx\gfx.c 263
+GT 4 D:\code\mafiawork\game\gfx\gfx.c 263
+GT 5 D:\code\mafiawork\game\gfx\gfx.c 263
+GT 6 D:\code\mafiawork\game\gfx\gfx.c 263
+DB 1 D:\code\mafiawork\game\gfx\gfx.c 186
+DVA 1 D:\code\mafiawork\game\gfx\gfx.c 187
+DT 3 D:\code\mafiawork\game\gfx\gfx.c 191
+DT 4 D:\code\mafiawork\game\gfx\gfx.c 191
+DT 5 D:\code\mafiawork\game\gfx\gfx.c 191
+DT 6 D:\code\mafiawork\game\gfx\gfx.c 191
+DT 2 D:\code\mafiawork\game\gfx\gfx.c 191
+M 1889337148064 D:\code\mafiawork\game\game.c 73
+END
+malloc 19
+realloc 10
+free 23
+glGenBuffers 1
+glGenTextures 6
+glGenVertexArrays 1
+glDeleteBuffers 1
+glDeleteTextures 5
+glDeleteVertexArrays 1

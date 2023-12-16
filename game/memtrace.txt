@@ -1,0 +1,3 @@
+GB 1 D:\code\mafiawork\game\gfx\gfx.c 127
+GVA 1 D:\code\mafiawork\game\gfx\gfx.c 131
+GT 1 D:\code\mafiawork\game\gfx\gfx.c 140

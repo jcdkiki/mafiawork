@@ -1,0 +1,40 @@
+﻿  game.c
+D:\code\mafiawork\game\gfx\gui.h(57,2): warning C4091: typedef : пропускается слева от "gui_button", когда ни одна переменная не объявлена
+D:\code\mafiawork\game\game.c(83,53): warning C4133: =: несовместимые типы - из "gui_label_t *" в "gui_element_t *"
+D:\code\mafiawork\game\game.c(84,53): warning C4133: =: несовместимые типы - из "gui_label_t *" в "gui_element_t *"
+D:\code\mafiawork\game\game.c(86,52): warning C4133: функция: несовместимые типы - из "gui_static_container_t *" в "gui_element_t *"
+D:\code\mafiawork\game\game.c(91,45): warning C4133: функция: несовместимые типы - из "gui_window_t *" в "gui_element_t *"
+D:\code\mafiawork\game\game.c(118,41): warning C4133: функция: несовместимые типы - из "gui_window_t *" в "gui_element_t *"
+D:\code\mafiawork\game\game.c(190,37): warning C4133: функция: несовместимые типы - из "gui_window_t *" в "gui_element_t *"
+  gfx.c
+  sys_win.c
+D:\code\mafiawork\game\sys_win.c(38,1): warning C4133: инициализация: несовместимые типы - из "char [5]" в "const wchar_t *"
+D:\code\mafiawork\game\sys_win.c(107,26): warning C4477: "fprintf": в строке форматирования "%llu" требуется аргумент типа "unsigned __int64", но вариативный аргумент "1" имеет тип "void *"
+D:\code\mafiawork\game\sys_win.c(110,33): warning C4013: time: нет определения; предполагается "extern" с возвратом типа "int"
+D:\code\mafiawork\game\sys_win.c(135,26): warning C4477: "fprintf": в строке форматирования "%llu" требуется аргумент типа "unsigned __int64", но вариативный аргумент "1" имеет тип "void *"
+D:\code\mafiawork\game\sys_win.c(135,26): warning C4477: "fprintf": в строке форматирования "%llu" требуется аргумент типа "unsigned __int64", но вариативный аргумент "2" имеет тип "void *"
+D:\code\mafiawork\game\sys_win.c(151,26): warning C4477: "fprintf": в строке форматирования "%llu" требуется аргумент типа "unsigned __int64", но вариативный аргумент "1" имеет тип "void *"
+D:\code\mafiawork\game\sys_win.c(238,33): warning C4244: функция: преобразование "WPARAM" в "int", возможна потеря данных
+D:\code\mafiawork\game\sys_win.c(242,47): warning C4244: =: преобразование "WPARAM" в "uint8_t", возможна потеря данных
+D:\code\mafiawork\game\sys_win.c(339,21): warning C4047: функция: "FILE **" отличается по уровням косвенного обращения от "file_handle_t *"
+D:\code\mafiawork\game\sys_win.c(339,17): warning C4024: fopen_s: различные типы для формального и фактического параметров 1
+D:\code\mafiawork\game\sys_win.c(347,24): warning C4047: функция: "FILE **" отличается по уровням косвенного обращения от "file_handle_t *"
+D:\code\mafiawork\game\sys_win.c(347,19): warning C4024: freopen_s: различные типы для формального и фактического параметров 1
+D:\code\mafiawork\game\sys_win.c(347,47): warning C4047: функция: "FILE *" отличается по уровням косвенного обращения от "file_handle_t"
+D:\code\mafiawork\game\sys_win.c(347,43): warning C4024: freopen_s: различные типы для формального и фактического параметров 4
+D:\code\mafiawork\game\sys_win.c(355,20): warning C4047: функция: "FILE *" отличается по уровням косвенного обращения от "file_handle_t"
+D:\code\mafiawork\game\sys_win.c(355,16): warning C4024: fclose: различные типы для формального и фактического параметров 1
+D:\code\mafiawork\game\sys_win.c(362,37): warning C4047: функция: "FILE *" отличается по уровням косвенного обращения от "file_handle_t"
+D:\code\mafiawork\game\sys_win.c(362,33): warning C4024: fread: различные типы для формального и фактического параметров 4
+D:\code\mafiawork\game\sys_win.c(367,22): warning C4047: функция: "FILE *" отличается по уровням косвенного обращения от "file_handle_t"
+D:\code\mafiawork\game\sys_win.c(367,18): warning C4024: ftell: различные типы для формального и фактического параметров 1
+D:\code\mafiawork\game\sys_win.c(377,15): warning C4047: функция: "FILE *" отличается по уровням косвенного обращения от "file_handle_t"
+D:\code\mafiawork\game\sys_win.c(377,11): warning C4024: fseek: различные типы для формального и фактического параметров 1
+D:\code\mafiawork\game\sys_win.c(377,23): warning C4267: функция: преобразование из "size_t" в "long"; возможна потеря данных
+D:\code\mafiawork\game\sys_win.c(459,50): warning C4244: =: преобразование "int64_t" в "int", возможна потеря данных
+D:\code\mafiawork\game\sys_win.c(466,21): warning C4244: инициализация: преобразование "LONG" в "float", возможна потеря данных
+D:\code\mafiawork\game\sys_win.c(474,37): warning C4244: =: преобразование "int64_t" в "int", возможна потеря данных
+D:\code\mafiawork\game\sys_win.c(511,48): warning C4477: "fprintf": в строке форматирования "%llu" требуется аргумент типа "unsigned __int64", но вариативный аргумент "1" имеет тип "void *"
+D:\code\mafiawork\game\sys_win.c(495,1): warning C4244: инициализация: преобразование "int64_t" в "int", возможна потеря данных
+  Создание кода...
+  game.vcxproj -> D:\code\mafiawork\x64\Debug\game.exe

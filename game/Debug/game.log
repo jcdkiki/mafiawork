@@ -1,0 +1,4 @@
+﻿  gfx.c
+D:\code\creng\game\utils.h(106,39): warning C4028: формальный параметр 2 отличается от объявления
+D:\code\creng\game\gfx.c(152,20): warning C4018: <: несоответствие типов со знаком и без знака
+  game.vcxproj -> D:\code\creng\Debug\game.exe

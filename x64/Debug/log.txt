@@ -1,0 +1,2 @@
+INFO 04/08/2023 15:15:16 [D:\code\mafiawork\game\sys_win.c:331]: Fatal error with message: Failed to open file
+INFO 04/08/2023 15:15:16 [D:\code\mafiawork\game\sys_win.c:332]: Exiting with code 1
